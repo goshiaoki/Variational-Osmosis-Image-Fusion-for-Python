@@ -1,6 +1,6 @@
-# Variational Osmosis for Non-Linear Image Fusion
+# Variational Osmosis for Non-Linear Image Fusion for Python
 
-<img src="./extra/manuscript_restoration.png" width=50%> 
+I use the following paper and translate the Matlab code into Python
 
 **Author**: Simone Parisotto
 
